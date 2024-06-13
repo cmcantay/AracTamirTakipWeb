@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\WebApplication.web\\WebApplication.web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.BusinessLayer\\AracTamirTakip.BusinessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.BusinessLayer\\AracTamirTakip.BusinessLayer.csproj",
+        "projectName": "AracTamirTakip.BusinessLayer",
+        "projectPath": "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.BusinessLayer\\AracTamirTakip.BusinessLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.DataAccessLayer\\AracTamirTakip.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.DataAccessLayer\\AracTamirTakip.DataAccessLayer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.DataAccessLayer\\AracTamirTakip.DataAccessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.DataAccessLayer\\AracTamirTakip.DataAccessLayer.csproj",
+        "projectName": "AracTamirTakip.DataAccessLayer",
+        "projectPath": "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.DataAccessLayer\\AracTamirTakip.DataAccessLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.Entities\\AracTamirTakip.Entities.csproj": {
+                "projectPath": "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.Entities\\AracTamirTakip.Entities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.Entities\\AracTamirTakip.Entities.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.Entities\\AracTamirTakip.Entities.csproj",
+        "projectName": "AracTamirTakip.Entities",
+        "projectPath": "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.Entities\\AracTamirTakip.Entities.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\WebApplication.web\\WebApplication.web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\WebApplication.web\\WebApplication.web.csproj",
+        "projectName": "WebApplication.web",
+        "projectPath": "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\WebApplication.web\\WebApplication.web.csproj",
+        "packagesPath": "C:\\Users\\CMC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\WebApplication.web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\CMC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.BusinessLayer\\AracTamirTakip.BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.BusinessLayer\\AracTamirTakip.BusinessLayer.csproj"
+              },
+              "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.DataAccessLayer\\AracTamirTakip.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.DataAccessLayer\\AracTamirTakip.DataAccessLayer.csproj"
+              },
+              "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.Entities\\AracTamirTakip.Entities.csproj": {
+                "projectPath": "C:\\Users\\CMC\\Desktop\\c#\\AracTamirTakip\\AracTamirTakip.Entities\\AracTamirTakip.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

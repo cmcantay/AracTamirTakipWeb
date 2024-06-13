@@ -1,0 +1,112 @@
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.dll.config
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.dll
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.pdb
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.CopyComplete
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.dll
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.pdb
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.dll
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.pdb
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.dll.config
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.dll
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.pdb
+C:\Users\CMC\source\repos\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.dll.config
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.dll.config
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.dll
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.pdb
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.dll
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.dll
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.pdb
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.dll.config
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.pdb
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.dll.config
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.CopyComplete
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.dll
+C:\Users\CMC\Desktop\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.pdb
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.dll.config
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.dll
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.pdb
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.dll
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.dll
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.pdb
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.dll.config
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.pdb
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.dll.config
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.CopyComplete
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.dll
+C:\Users\CMC\Desktop\AracTamirTakip(Yedek)\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.pdb
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.dll.config
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.dll
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.pdb
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.dll
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.dll
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.pdb
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.dll.config
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.pdb
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.dll.config
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.CopyComplete
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.dll
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.pdb
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\CMC\Desktop\c#\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.dll.config
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.dll
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.BusinessLayer.pdb
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.dll
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.dll
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.Mvc.dll
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.WebPages.dll
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.Razor.dll
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.pdb
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.DataAccessLayer.dll.config
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.pdb
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\AracTamirTakip.Entities.dll.config
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.Mvc.xml
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.WebPages.xml
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.Razor.xml
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.csproj.CopyComplete
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.dll
+C:\Users\CMC\Desktop\yedek 3\AracTamirTakip\AracTamirTakip.BusinessLayer\obj\Debug\AracTamirTakip.BusinessLayer.pdb
